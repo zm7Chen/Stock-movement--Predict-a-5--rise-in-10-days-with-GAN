@@ -1,0 +1,6 @@
+model_checkpoint_path: "cnn.ckpt-1999"
+all_model_checkpoint_paths: "cnn.ckpt-1599"
+all_model_checkpoint_paths: "cnn.ckpt-1699"
+all_model_checkpoint_paths: "cnn.ckpt-1799"
+all_model_checkpoint_paths: "cnn.ckpt-1899"
+all_model_checkpoint_paths: "cnn.ckpt-1999"
